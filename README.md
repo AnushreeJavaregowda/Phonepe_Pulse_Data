@@ -1,4 +1,3 @@
-# Phonepe_Pulse_Data
 <h1 align="center">PhonePe Pulse Data Visualization 2018-2023</h1> </p>
 <img align="right" alt="Coding" width="300" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
